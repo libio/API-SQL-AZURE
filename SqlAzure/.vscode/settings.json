@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/cd0581bd-2ef1-4378-884a-3d014ed594a9/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/webapicontacts",
+    "appService.deploySubpath": "APIazureserver\\publish"
+}

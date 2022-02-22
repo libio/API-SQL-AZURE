@@ -1,0 +1,8 @@
+insert into SalesLT.Address  (AddressLine1,City,StateProvince,CountryRegion,Postalcode)
+values ('2550 Bay CountryCuidade','Peru','Cusco','Cusco','0051')
+
+select * from SalesLT.Address
+where city='peru'
+
+delete from SalesLT.Address where AddressID=11383
+

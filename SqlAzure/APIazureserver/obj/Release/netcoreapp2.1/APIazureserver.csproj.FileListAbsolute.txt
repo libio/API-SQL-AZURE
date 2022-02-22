@@ -1,0 +1,14 @@
+E:\Data Libio\Proyectos\SqlAzure\apiazureserver\bin\Release\netcoreapp2.1\APIazureserver.deps.json
+E:\Data Libio\Proyectos\SqlAzure\apiazureserver\bin\Release\netcoreapp2.1\APIazureserver.runtimeconfig.json
+E:\Data Libio\Proyectos\SqlAzure\apiazureserver\bin\Release\netcoreapp2.1\APIazureserver.runtimeconfig.dev.json
+E:\Data Libio\Proyectos\SqlAzure\apiazureserver\bin\Release\netcoreapp2.1\APIazureserver.dll
+E:\Data Libio\Proyectos\SqlAzure\apiazureserver\bin\Release\netcoreapp2.1\APIazureserver.pdb
+E:\Data Libio\Proyectos\SqlAzure\apiazureserver\obj\Release\netcoreapp2.1\APIazureserver.csprojAssemblyReference.cache
+E:\Data Libio\Proyectos\SqlAzure\apiazureserver\obj\Release\netcoreapp2.1\APIazureserver.csproj.CoreCompileInputs.cache
+E:\Data Libio\Proyectos\SqlAzure\apiazureserver\obj\Release\netcoreapp2.1\APIazureserver.RazorAssemblyInfo.cache
+E:\Data Libio\Proyectos\SqlAzure\apiazureserver\obj\Release\netcoreapp2.1\APIazureserver.RazorAssemblyInfo.cs
+E:\Data Libio\Proyectos\SqlAzure\apiazureserver\obj\Release\netcoreapp2.1\APIazureserver.AssemblyInfoInputs.cache
+E:\Data Libio\Proyectos\SqlAzure\apiazureserver\obj\Release\netcoreapp2.1\APIazureserver.AssemblyInfo.cs
+E:\Data Libio\Proyectos\SqlAzure\apiazureserver\obj\Release\netcoreapp2.1\APIazureserver.RazorTargetAssemblyInfo.cache
+E:\Data Libio\Proyectos\SqlAzure\apiazureserver\obj\Release\netcoreapp2.1\APIazureserver.dll
+E:\Data Libio\Proyectos\SqlAzure\apiazureserver\obj\Release\netcoreapp2.1\APIazureserver.pdb
